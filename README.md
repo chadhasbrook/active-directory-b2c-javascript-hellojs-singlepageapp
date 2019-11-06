@@ -79,7 +79,7 @@ Your single page application registration should include the following informati
 
 - Enable the **Web** setting for your application.
 - Set the **Redirect URL** for your app to `http://localhost:65328/redirect.html`
-- Once your app is created, open the app's **Expose an API** blade and **Add** the API you created in the previous step.
+- Once your app is created, open the app's **API Permissions** blade and **Add a permission** the API you created in the previous step.
 - Copy the Application ID generated for your application, so you can use it in the next step.
 
 ### [OPTIONAL] Step 6: Configure the sample to use your Azure AD B2C tenant
